@@ -1,3 +1,3 @@
 # Chess Program
 
-Program with which you can play chess over the terminal against Stockfish via the Stockfish REST API.
+Chess Software that is meant to run with a self moving chessboard and send commands to a ESP32 to move pieces.
